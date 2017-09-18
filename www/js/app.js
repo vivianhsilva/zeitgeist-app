@@ -22,3 +22,10 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+.controller('MainController', function MainController($scope, $ionicSideMenuDelegate) {
+  $scope.exibirMenu = function() {
+    $ionicSideMenuDelegate.toggleLeft();
+  }
+})
+

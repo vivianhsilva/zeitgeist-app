@@ -1,1 +1,10 @@
 /* Empty. Add your own CSS if you like */
+#subtitulo {
+    font-size: small;
+    text-align: right;
+}
+
+.info-edicao {
+    font-size: small;
+    text-align: right;
+}
