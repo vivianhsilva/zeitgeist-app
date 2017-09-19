@@ -8,3 +8,16 @@
     font-size: small;
     text-align: right;
 }
+
+.div-fundo-titulo {
+    background-color: #42a5f5;
+}
+
+.titulo {
+    font-size: center;
+    text-align: white;
+}
+
+.texto {
+    color: black;
+}
